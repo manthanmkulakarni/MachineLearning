@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/manthanmkulakarni/Documents/programming/machinelearning/tfdroid.ckpt"
+all_model_checkpoint_paths: "/Users/manthanmkulakarni/Documents/programming/machinelearning/tfdroid.ckpt"
